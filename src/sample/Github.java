@@ -4,10 +4,11 @@ public class Github {
 	
 	public static void password() {
 		// TODO Auto-generated method stub
-System.out.println("Pass");
+System.out.println("Ravindar");
 	}
-public static void main(String[] args) {
-	password();
+	public static void main(String[] args) {
+		password();
+		
+	}
 	
-}
 }
